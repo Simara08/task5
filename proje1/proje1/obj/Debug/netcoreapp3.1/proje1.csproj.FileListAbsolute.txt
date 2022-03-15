@@ -1,0 +1,14 @@
+C:\Users\simar\source\repos\proje1\proje1\bin\Debug\netcoreapp3.1\proje1.exe
+C:\Users\simar\source\repos\proje1\proje1\bin\Debug\netcoreapp3.1\proje1.deps.json
+C:\Users\simar\source\repos\proje1\proje1\bin\Debug\netcoreapp3.1\proje1.runtimeconfig.json
+C:\Users\simar\source\repos\proje1\proje1\bin\Debug\netcoreapp3.1\proje1.runtimeconfig.dev.json
+C:\Users\simar\source\repos\proje1\proje1\bin\Debug\netcoreapp3.1\proje1.dll
+C:\Users\simar\source\repos\proje1\proje1\bin\Debug\netcoreapp3.1\proje1.pdb
+C:\Users\simar\source\repos\proje1\proje1\obj\Debug\netcoreapp3.1\proje1.csproj.AssemblyReference.cache
+C:\Users\simar\source\repos\proje1\proje1\obj\Debug\netcoreapp3.1\proje1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simar\source\repos\proje1\proje1\obj\Debug\netcoreapp3.1\proje1.AssemblyInfoInputs.cache
+C:\Users\simar\source\repos\proje1\proje1\obj\Debug\netcoreapp3.1\proje1.AssemblyInfo.cs
+C:\Users\simar\source\repos\proje1\proje1\obj\Debug\netcoreapp3.1\proje1.csproj.CoreCompileInputs.cache
+C:\Users\simar\source\repos\proje1\proje1\obj\Debug\netcoreapp3.1\proje1.dll
+C:\Users\simar\source\repos\proje1\proje1\obj\Debug\netcoreapp3.1\proje1.pdb
+C:\Users\simar\source\repos\proje1\proje1\obj\Debug\netcoreapp3.1\proje1.genruntimeconfig.cache
